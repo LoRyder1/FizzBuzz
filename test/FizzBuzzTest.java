@@ -23,8 +23,14 @@ public class FizzBuzzTest {
     }
 
     @Test
-    public void whenFizzBuzzisPassedAMultipleOfThreeItReturnsFizz() {
+    public void whenFizzBuzzIsPassedAMultipleOfThreeItReturnsFizz() {
         assertEquals("fizz", fizzBuzz.fizz(3));
         assertEquals("fizz", fizzBuzz.fizz(6));
+    }
+
+    @Test
+    public void whenFizzBuzzIsPassedAMultipleOfFiveItReturnsBuzz() {
+        assertEquals("buzz", fizzBuzz.fizz(5));
+        assertEquals("buzz", fizzBuzz.fizz(10));
     }
 }

@@ -27,8 +27,8 @@
       <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5654886">
-              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+            <state vertical-scroll-proportion="1.1850312">
+              <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
               <folding>
                 <element signature="e#184#185#0" expanded="true" />
                 <element signature="e#225#226#0" expanded="true" />
@@ -461,15 +461,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 12h 48m 13s.xml">
-      <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 12h 48m 28s.xml">
-      <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 12h 54m 11s.xml">
-      <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 12h 55m 19s.xml">
       <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
     </history-entry>
@@ -489,6 +480,15 @@
       <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
     </history-entry>
     <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 13h 31m 20s.xml">
+      <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 13h 34m 04s.xml">
+      <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 13h 50m 27s.xml">
+      <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_tests_in_FizzBuzz - 2016.02.29 at 13h 50m 34s.xml">
       <configuration name="All tests in FizzBuzz" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -564,8 +564,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5654886">
-          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+        <state vertical-scroll-proportion="1.1850312">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
           <folding>
             <element signature="e#184#185#0" expanded="true" />
             <element signature="e#225#226#0" expanded="true" />
